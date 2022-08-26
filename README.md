@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on ATmega32U4.
+ATMEGA32U4 based development board with 32kBytes of In-System Self-Programmable Flash program memory, 1kBytes EEPROM, 2.5kBytes Internal SRAM, 5 PWM Channels, 18 Digital Pins and 9 channel 10 bit ADC Pins.
 
 Contents
 -------------------
